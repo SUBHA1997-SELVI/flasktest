@@ -1,0 +1,4 @@
+sudo apt update
+git clone https://github.com/SUBHA1997-SELVI/flasktest.git
+mkdir flasktest1
+cd flasktest1
