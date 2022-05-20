@@ -11,3 +11,5 @@ services:
     # run in your project directory 
     
  docker-compose up
+ 
+ # Enter http://localhost:8000/ in a browser to see the application running.
