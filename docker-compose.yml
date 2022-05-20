@@ -6,3 +6,8 @@ services:
       - "8000:5000"
   redis:
     image: "redis:alpine"
+    
+    
+    # run in your project directory 
+    
+ docker-compose up
